@@ -1,3 +1,3 @@
-__**This Code only show Passwords that have entered before**__
+__**This Code only shows Passwords you have entered before**__
 
 `Made By Hajishun`
